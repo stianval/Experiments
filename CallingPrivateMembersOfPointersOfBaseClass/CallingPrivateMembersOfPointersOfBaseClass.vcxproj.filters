@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CustomStreamBuf.cpp">
+    <ClCompile Include="callingprivate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

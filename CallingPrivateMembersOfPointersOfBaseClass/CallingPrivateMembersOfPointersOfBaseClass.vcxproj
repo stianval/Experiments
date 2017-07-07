@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{F7BE57EC-5201-4AD5-ACAF-B73031BA3F7F}</ProjectGuid>
+    <ProjectGuid>{24158917-44A7-4665-B724-C8DD2F9065B1}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>CustomStreamBuf</RootNamespace>
+    <RootNamespace>CallingPrivateMembersOfPointersOfBaseClass</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -146,7 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CustomStreamBuf.cpp" />
+    <ClCompile Include="callingprivate.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
