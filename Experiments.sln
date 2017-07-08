@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CustomStreamBuf", "CustomSt
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CallingPrivateMembersOfPointersOfBaseClass", "CallingPrivateMembersOfPointersOfBaseClass\CallingPrivateMembersOfPointersOfBaseClass.vcxproj", "{24158917-44A7-4665-B724-C8DD2F9065B1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SaveObservers", "SaveObservers\SaveObservers.vcxproj", "{637C133B-2753-4B20-8814-AF2DDE9789C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{24158917-44A7-4665-B724-C8DD2F9065B1}.Release|x64.Build.0 = Release|x64
 		{24158917-44A7-4665-B724-C8DD2F9065B1}.Release|x86.ActiveCfg = Release|Win32
 		{24158917-44A7-4665-B724-C8DD2F9065B1}.Release|x86.Build.0 = Release|Win32
+		{637C133B-2753-4B20-8814-AF2DDE9789C3}.Debug|x64.ActiveCfg = Debug|x64
+		{637C133B-2753-4B20-8814-AF2DDE9789C3}.Debug|x64.Build.0 = Debug|x64
+		{637C133B-2753-4B20-8814-AF2DDE9789C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{637C133B-2753-4B20-8814-AF2DDE9789C3}.Debug|x86.Build.0 = Debug|Win32
+		{637C133B-2753-4B20-8814-AF2DDE9789C3}.Release|x64.ActiveCfg = Release|x64
+		{637C133B-2753-4B20-8814-AF2DDE9789C3}.Release|x64.Build.0 = Release|x64
+		{637C133B-2753-4B20-8814-AF2DDE9789C3}.Release|x86.ActiveCfg = Release|Win32
+		{637C133B-2753-4B20-8814-AF2DDE9789C3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
